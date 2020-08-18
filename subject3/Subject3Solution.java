@@ -65,7 +65,7 @@ public class Subject3Solution {
 //        System.out.println("pwwkew".indexOf("w"));
         long s = System.currentTimeMillis();
         Subject3Solution solution = new Subject3Solution();
-        System.out.println(solution.lengthOfLongestSubstring("aab"));
+        System.out.println(solution.lengthOfLongestSubstring("pwwkew"));
 //        System.out.println((System.currentTimeMillis() - s) / 60);
     }
 }

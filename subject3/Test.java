@@ -18,5 +18,9 @@ public class Test {
         sb.delete(0,2);
         System.out.println(sb);
 
+        int[] arr = new int[128];
+        arr[0] = 98;
+        System.out.println(arr[98]);
+
     }
 }
